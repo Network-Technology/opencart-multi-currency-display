@@ -1,3 +1,5 @@
+![Module Preview](https://raw.githubusercontent.com/Network-Technology/opencart-multi-currency-display/main/788be9a9-cffc-4b14-93d1-a8ac06caeeba_20251205_133137_c1d84f.png)
+
 # Multi-Currency Display (EUR → BGN)
 
 This is an OpenCart OCMOD extension that displays the BGN equivalent next to every formatted EUR price.  
