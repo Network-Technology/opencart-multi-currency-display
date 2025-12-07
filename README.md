@@ -8,15 +8,16 @@ Example output:
 `€25.00 (49.00 лв.)`
 
 
-
 ## Licensing & Availability (Paid Extension)
 
 This is a **paid commercial extension** developed by Network Technology.  
 The full OCMOD package is available only to customers with a valid purchase.
 
-For licensing or inquiries: **office@ntg.bg**  
-Official website: https://ntg.bg
+💰 **Module price: 50 EUR**
 
+For licensing or inquiries: **office@ntg.bg**  
+Official website: https://ntg.bg  
+Product article: https://ntg.bg/blog/opencart-eur-bgn
 
 
 ## Features
@@ -27,7 +28,6 @@ Official website: https://ntg.bg
 - Respects currency formatting, decimals, symbols  
 - No admin settings — plug-and-play  
 - Lightweight OCMOD modification of `system/library/cart/currency.php`
-
 
 
 ## Installation
@@ -41,7 +41,6 @@ Official website: https://ntg.bg
 5. Clear theme/system cache if necessary
 
 
-
 ## Compatibility
 
 - OpenCart **3.x**  
@@ -49,11 +48,9 @@ Official website: https://ntg.bg
 - Compatible with Journal3 theme (tested)
 
 
-
 ## Files
 
 - `install.xml` — OCMOD override implementing the secondary BGN display
-
 
 
 ## Example Logic
@@ -67,7 +64,6 @@ If:
 Then the module outputs:
 
 `EUR price + (BGN converted price)`
-
 
 
 ## Author
