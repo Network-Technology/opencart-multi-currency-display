@@ -9,6 +9,16 @@ Example output:
 
 ---
 
+## Licensing & Availability (Paid Extension)
+
+This is a **paid commercial extension** developed by Network Technology.  
+The full OCMOD package is available only to customers with a valid purchase.
+
+For licensing or inquiries: **office@ntg.bg**  
+Official website: https://ntg.bg
+
+---
+
 ## Features
 
 - Shows BGN value next to all EUR-formatted prices  
@@ -22,9 +32,11 @@ Example output:
 
 ## Installation
 
+> ⚠️ Full installation package is provided only to licensed users.
+
 1. Log into your OpenCart admin panel  
 2. Go to **Extensions → Installer**  
-3. Upload `install.xml`  
+3. Upload the provided `.ocmod.zip` package  
 4. Go to **Extensions → Modifications** and click **Refresh**  
 5. Clear theme/system cache if necessary
 
