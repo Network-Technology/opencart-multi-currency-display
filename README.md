@@ -7,7 +7,7 @@ Example output:
 
 `€25.00 (49.00 лв.)`
 
----
+
 
 ## Licensing & Availability (Paid Extension)
 
@@ -17,7 +17,7 @@ The full OCMOD package is available only to customers with a valid purchase.
 For licensing or inquiries: **office@ntg.bg**  
 Official website: https://ntg.bg
 
----
+
 
 ## Features
 
@@ -28,7 +28,7 @@ Official website: https://ntg.bg
 - No admin settings — plug-and-play  
 - Lightweight OCMOD modification of `system/library/cart/currency.php`
 
----
+
 
 ## Installation
 
@@ -40,7 +40,7 @@ Official website: https://ntg.bg
 4. Go to **Extensions → Modifications** and click **Refresh**  
 5. Clear theme/system cache if necessary
 
----
+
 
 ## Compatibility
 
@@ -48,13 +48,13 @@ Official website: https://ntg.bg
 - PHP 7.x / 8.x  
 - Compatible with Journal3 theme (tested)
 
----
+
 
 ## Files
 
 - `install.xml` — OCMOD override implementing the secondary BGN display
 
----
+
 
 ## Example Logic
 
@@ -68,7 +68,7 @@ Then the module outputs:
 
 `EUR price + (BGN converted price)`
 
----
+
 
 ## Author
 
