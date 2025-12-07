@@ -19,7 +19,10 @@ The full OCMOD package is available only to customers with a valid purchase.
 
 For licensing or inquiries: **office@ntg.bg**  
 Official website: https://ntg.bg  
-Product article: https://ntg.bg/blog/opencart-eur-bgn
+
+**Product articles:**  
+- 🇧🇬 Bulgarian: https://ntg.bg/blog/opencart-eur-bgn  
+- 🇬🇧 English: https://ntg.bg/en/blog/opencart-eur-bgn
 
 
 ## Features
